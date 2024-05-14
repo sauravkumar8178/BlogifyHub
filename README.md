@@ -6,6 +6,7 @@ This project is a blog built using Node.js and React.js. It includes all the nec
 
 - Node.js
 - React.js
+- Tailwind.css
 
 ## Features
 
